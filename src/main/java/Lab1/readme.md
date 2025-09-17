@@ -1,3 +1,3 @@
 Here is my lab 1 capture 
 
-![](./img.png)
+![](src/main/java/Lab1/img.png)
